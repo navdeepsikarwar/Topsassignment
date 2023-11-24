@@ -1,0 +1,1 @@
+// Function to count blank spaces and digits in a string
